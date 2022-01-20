@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tinder/static/css/main.e3387e79.css",
-    "main.js": "/tinder/static/js/main.bd355afb.js",
+    "main.js": "/tinder/static/js/main.c8504a25.js",
     "index.html": "/tinder/index.html",
     "main.e3387e79.css.map": "/tinder/static/css/main.e3387e79.css.map",
-    "main.bd355afb.js.map": "/tinder/static/js/main.bd355afb.js.map"
+    "main.c8504a25.js.map": "/tinder/static/js/main.c8504a25.js.map"
   },
   "entrypoints": [
     "static/css/main.e3387e79.css",
-    "static/js/main.bd355afb.js"
+    "static/js/main.c8504a25.js"
   ]
 }
